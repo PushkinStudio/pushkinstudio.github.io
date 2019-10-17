@@ -1,2 +1,3 @@
-# pushkinstudio.github.io
-Pushkin Studio Public
+# Pushkin Studio
+
+Pushkin Studio Files
