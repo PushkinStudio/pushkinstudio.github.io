@@ -11,6 +11,10 @@
         {
             "name": "Турнир 128",
             "link": "tour128.json"
+        },
+        {
+            "name": "Турнир 9",
+            "link": "tour9.json"
         }
     ]
 }

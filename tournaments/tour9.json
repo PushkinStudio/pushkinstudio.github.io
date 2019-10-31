@@ -1,0 +1,21 @@
+{
+    "teams": [
+        { "name": "Лермонтов",      "image": "00.png" },
+        { "name": "Чехов",          "image": "01.png" },
+        { "name": "Достоевский",    "image": "02.png" },
+        { "name": "Гоголь",         "image": "03.png" },
+        { "name": "Толстой",        "image": "05.png" },
+        { "name": "Пушкин",         "image": "06.png" },
+        { "name": "Горький",        "image": "07.png" },
+        { "name": "Сладкий",        "image": "08.png" }
+    ],
+    "matches": [
+        { "team0": "Гоголь",        "team1": "Пушкин",  "winner": 1, "timestamp": 1561060006, "round": 3 },
+        { "team0": "Толстой",       "team1": "Пушкин",  "winner": 1, "timestamp": 1551060005, "round": 2 },
+        { "team0": "Чехов",         "team1": "Гоголь",  "winner": 1, "timestamp": 1541060004, "round": 2 },
+        { "team0": "Лермонтов",     "team1": "Чехов",   "winner": 1, "timestamp": 1511060001, "round": 1 },
+        { "team0": "Достоевский",   "team1": "Гоголь",  "winner": 1, "timestamp": 1521060002, "round": 1 },
+        { "team0": "Пушкин",        "team1": "Горький", "winner": 0, "timestamp": 1531060003, "round": 1 },
+        { "team0": "Сладкий",       "team1": "Горький", "winner": 1, "timestamp": 1531060000, "round": 0 }
+    ]
+}
