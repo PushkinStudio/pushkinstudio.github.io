@@ -8,7 +8,7 @@
         { "name": "Пушкин",         "image": "06.png" },
         { "name": "Горький",        "image": "07.png" },
         { "name": "Сладкий",        "image": "08.png" },
-        { "name": "Кислый",         "image": "04.png" },
+        { "name": "Кислый",         "image": "04.png" }
     ],
     "matches": [
         { "team0": "Гоголь",        "team1": "Пушкин",  "winner": 1, "timestamp": 1561060006, "round": 3 },
