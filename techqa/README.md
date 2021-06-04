@@ -1,4 +1,4 @@
-# Программист инструментария и автоматизации UE4 в Pushkin Studio
+# Программист инструментария и автоматизации C++/UE4 в Pushkin Studio
 
 Unreal Engine 4, С++, авто-тесты, CI/CD, Java/Python/Bash
 
