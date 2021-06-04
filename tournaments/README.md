@@ -1,4 +1,4 @@
-# Программист UI в Pushkin Studio
+# Программист UI (C++/UE4) в Pushkin Studio
 
 Unreal Engine 4, UMG, UI, C++
 
